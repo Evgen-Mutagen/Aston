@@ -6,7 +6,6 @@ package ru.astondevs.hw1;
 
 
 public class ArrayListRealization<E> {
-    ArrayListRealization<E> arrayList;
     private int capacity = 20;
     private int size;
 
